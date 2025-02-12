@@ -1,0 +1,30 @@
+[
+    {
+        "name": "StockIMG",
+        "description": "Stockimg AI, sosyal medyanızı uçtan uca yönetebilir, sınırsız içerik oluşturabilir ve planlayabilir.",
+        "created_at": "2025-02-10",
+        "link": "https://stockimg.ai",
+        "favicon": "https://stockimg.ai/favicon.ico"
+    },
+    {
+        "name": "LightPDF",
+        "description": "PDF'leri düzenleyin, dönüştürün, OCR yapın, imzalayın, notlar ekleyin, sohbet edin ve daha fazlasını yapın. Masaüstü, mobil ve web platformlarında erişilebilir.",
+        "created_at": "2025-02-11",
+        "link": "https://lightpdf.com",
+        "favicon": "https://cfcdn.apowersoft.info/astro/lightpdf/_astro/favicon@48w.1f86f507.png"
+    },
+    {
+        "name": "ChatDOC",
+        "description": "ChatDOC ile PDF'lere daha önce hiç olmadığı gibi dalın. Yapay zeka uzun belgeleri özetlesin, karmaşık kavramları açıklasın ve önemli bilgileri saniyeler içinde bulsun.",
+        "created_at": "2025-02-11",
+        "link": "https://chatdoc.com",
+        "favicon": "https://chatdoc.com/favicon.png"
+    },
+    {
+        "name": "Kickresume",
+        "description": "Yapay zeka ve özelleştirilebilir şablonlarımızla hızlıca güzel bir özgeçmiş oluşturun. Gelecekteki işvereninizi, dakikalar içinde oluşturduğunuz mükemmel bir özgeçmişle etkileyin.",
+        "created_at": "2025-02-11",
+        "link": "https://www.kickresume.com",
+        "favicon": "https://www.kickresume.com/static/img/favicon/apple-icon-57x57.png"
+    }
+]
