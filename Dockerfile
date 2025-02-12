@@ -5,4 +5,4 @@ FROM nginx:alpine
 COPY ./ /usr/share/nginx/html
 
 # Nginx'in varsayılan portunu açın
-EXPOSE 8030
+EXPOSE 5010
