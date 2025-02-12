@@ -36,6 +36,6 @@ jobs:
         key: ${{ secrets.SSH_PRIVATE_KEY }}
         script: |
           podman pull ghcr.io/${{ github.repository }}:latest
-          podman stop your-container-name || true
-          podman rm your-container-name || true
-          podman run -d --name your-container-name -p 5010:80 ghcr.io/${{ github.repository }}:latest
+          podman stop ai-kulup || true
+          podman rm ai-kulup || true
+          podman run -d --name ai-kulup -p 5010:80 ghcr.io/${{ github.repository }}:latest
